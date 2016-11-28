@@ -274,6 +274,17 @@ Sliders Style
 }
 
 
+#owl-hero .item .captin {
+  position: absolute;
+  top: 50%;
+  margin-top: -104px;
+  left: 0;
+  right: 0;
+  text-align: center;
+  z-index: 15;
+}
+
+
 
 #owl-hero .item .captin {
   position: absolute;
@@ -706,12 +717,12 @@ Google Map Style
     /* ==========================================================================
 Footer Map Style
 ========================================================================== */
-footer {
+foote {
   background: #24242a;
   padding: 60px 0;
   text-align: center;
 }
-footer h1 {
+foote h1 {
   text-transform: uppercase;
   font-weight: 700;
 }
